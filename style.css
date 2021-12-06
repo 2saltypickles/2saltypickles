@@ -1,0 +1,53 @@
+h1 {
+	color: brown;
+}
+
+.food {
+	background-color: burlywood;
+}
+.nonfood {
+	background-color: mistyrose;
+}
+p {
+	width: 200px;
+}
+#picker {
+	color: rgba(71, 69, 47, 1.0);
+	background-color: rgba(201, 178, 235, .9);
+	margin: 10px;
+}
+#back {
+	background-color: rgba(199, 195, 155, 1.0);
+	width: 200px;
+}
+
+/*Navigation styling*/
+nav ul li {
+	display: inline-block;
+	position: relative;
+}
+nav ul li a {
+	padding: 20px;
+	font-family: fantasy;
+}
+nav {
+	background-color: #eb4034;
+	margin: 15px;
+	padding: 20px;
+	border-radius: 15px;
+}
+/*/Navigation styling*/
+
+
+
+/*For next class on October 16th 2021*/
+
+.button {
+	background-image: url("https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png");
+	padding: 20px;
+	background-color: white;
+	width: 100px;
+	background-position: center;
+	background-size: 100px;
+	background-repeat: no-repeat;
+}
